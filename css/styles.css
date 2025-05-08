@@ -7,7 +7,7 @@ table {
   width:70%; 
 }
 .month-header {
-  background-image:url("https://calendar-2025-feb.bauska.org/images/andthegaynightlife-600px2.jpg");
+  background-image:url("https://2025-feb.bauska.org/images/andthegaynightlife-600px2.jpg");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
@@ -78,13 +78,13 @@ ul {
     background-color:#ff8080;  /* very light red */
 }
 .natl-pizza {
-    background-color:#ff9933;  /* vivid orange */
+    background-color:#ffbf80;  /* very light orange */
 }
 .superbowl {
-    background-color:#ff3399;  /* vivid pink */
+    background-color:#ff80bf;  /* light pink */
 }
 .intl-condom {
-    background-color:#3399ff;  /* vivid blue */
+    background-color:#80bfff;  /* very light blue */
 }
 .lincoln {
     background-color:#ff5d5d;  /* light red */
@@ -93,10 +93,10 @@ ul {
     background-color:#9933ff;  /* vivid violet */
 }
 .fathers-day {
-    background-color:#ff8c1a;  /* vivid orange */
+    background-color:#ffcc67;  /* very light orange */
 }
 .presidents {
-    background-color:#ffb21a;  /* vivid orange */
+    background-color:#ff9967;  /* very light orange */
 }
 .random-kindness {
     background-color:#ff55d5;  /* light magenta */
