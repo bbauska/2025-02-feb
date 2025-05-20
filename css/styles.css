@@ -15,7 +15,7 @@ table {
   text-align:right;
 }
 
-h1 {
+mark, h1 {
   color:#FFF;
   font-size:200%;
   font-weight:700;
