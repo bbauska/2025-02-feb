@@ -15,7 +15,7 @@ table {
   text-align:right;
 }
 
-mark, h1 {
+h1 {
   color:#FFF;
   font-size:200%;
   font-weight:700;
@@ -25,6 +25,17 @@ mark, h1 {
   text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
   vertical-align:top;
 }
+p {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+
 /* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
